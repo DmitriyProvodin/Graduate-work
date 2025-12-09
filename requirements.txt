@@ -4,7 +4,7 @@ djangorestframework-simplejwt
 psycopg2-binary
 drf-spectacular
 django-cors-headers
+python-dotenv
 pytest
 pytest-django
 factory-boy
-python-dotenv
